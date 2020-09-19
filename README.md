@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-09-11 22:49:29
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-12 20:53:26
+ * @LastEditTime: 2020-09-19 14:55:22
  * @FilePath: \Weidowsg:\Repo\Rainmeter-skin\README.md
 -->
 
@@ -14,7 +14,7 @@
 </h1>
 
 # 预览图片
-  ![桌面](https://gitee.com/Weidows2984539695/Weidows/raw/master/Website/public/images/post/result.jpg)
+  ![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/post/result.jpg)
   
 ---
 
@@ -35,7 +35,7 @@
 
 <center>
 
-# #N.[反馈 & 出处 (Aboue me & Click me)](https://weidows2984539695.gitee.io/Weidows/tags/about)
+# #N.[反馈 & 出处 (Aboue me & Click me)](https://weidows.gitee.io/tags/about)
 
     后续可能会更新,同时欢迎有兴趣的提出修改意见或共同整改!
 </center>
