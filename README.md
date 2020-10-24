@@ -18,8 +18,6 @@
 
 ![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/post/result.jpg)
 
----
-
 # 目录简介
 
 - additional 里面是鼠标尾随动画 && 任务栏美化软件
@@ -35,6 +33,8 @@
 - 进入[release](https://github.com/Weidows/Rainmeter-skin/releases/tag/1.2.5),下载`Weidow's skin_1.2.5.rmskin`安装
 - 再下载 additional.zip,启用两个软件
 - 完成,一模一样了
+
+  ***
 
 ## 进阶の巨人:
 
