@@ -16,7 +16,7 @@
 
 # 预览图片
 
-![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/post/result.jpg)
+![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/post/1/1/result.jpg)
 
 # 目录简介
 
