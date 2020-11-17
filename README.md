@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-09-11 22:49:29
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-24 21:47:47
+ * @LastEditTime: 2020-11-18 01:32:42
  * @FilePath: \Weidowsg:\Repo\Rainmeter-skin\README.md
 -->
 
@@ -16,7 +16,7 @@
 
 # 预览图片
 
-![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/post/1/1/result.jpg)
+![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/Repository/result.jpg)
 
 # 目录简介
 
