@@ -1,11 +1,15 @@
+---
+title: ⭐️ Weidow's 雨滴桌面⭐️
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/1/result.jpg
+---
+
 <!--
  * @Author: Weidows
- * @Date: 2020-09-11 22:49:29
+ * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-18 01:32:42
- * @FilePath: \Weidowsg:\Repo\Rainmeter-skin\README.md
+ * @LastEditTime: 2020-11-18 01:33:41
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\categories\Rainmeter-Skins.md
 -->
-
 <h1 align="center">
 
 ⭐️ Weidow's Rainmeter-Skins ⭐️
@@ -17,6 +21,8 @@
 # 预览图片
 
 ![桌面](https://cdn.jsdelivr.net/gh/Weidows/Images/Repository/result.jpg)
+
+---
 
 # 目录简介
 
@@ -33,8 +39,6 @@
 - 进入[release](https://github.com/Weidows/Rainmeter-skin/releases/tag/1.2.5),下载`Weidow's skin_1.2.5.rmskin`安装
 - 再下载 additional.zip,启用两个软件
 - 完成,一模一样了
-
-  ***
 
 ## 进阶の巨人:
 
