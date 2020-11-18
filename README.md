@@ -1,14 +1,9 @@
----
-title: ⭐️ Weidow's 雨滴桌面⭐️
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/1/result.jpg
----
-
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-18 01:33:41
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\categories\Rainmeter-Skins.md
+ * @LastEditTime: 2020-11-18 12:54:16
+ * @FilePath: \Repo\Rainmeter-skin\README.md
 -->
 <h1 align="center">
 
