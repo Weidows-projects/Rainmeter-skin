@@ -2,47 +2,47 @@
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-21 00:05:17
+ * @LastEditTime: 2020-11-28 18:14:00
  * @FilePath: \Repo\Rainmeter-skin\README.md
 -->
 <h1 align="center">
 
 ⭐️ Weidow's Rainmeter-Skins ⭐️
 
-这个只是个人存放 rainmeter 皮肤和美化配置的仓库
+- 这个只是个人存放 rainmeter 皮肤和美化配置的仓库
 
 </h1>
 
 # 预览图片
 
-![桌面](https://i.loli.net/2020/11/21/IZHJmLhjwWMA7CG.jpg)
+![20201124010559](https://raw.githubusercontent.com/Weidows/Images/main/PicGo/20201124010559.png)
 
 ---
 
 # 目录简介
 
-- additional 里面是鼠标尾随动画 && 任务栏美化软件
+- ## [additional](./additional/) 里面是鼠标尾随动画 && 任务栏美化软件
+- ## [UI 备份.txt](./UI备份.txt) 里面是雨滴美化插件的布局调整
 - 其他所有文件夹里面是雨滴美化配置文件
-- [UI 备份.txt](./UI备份.txt) 里面是雨滴美化插件的布局调整
 
 ---
 
-# 按 F 捡起装备
+# 按 `F` 捡起装备
 
-## 懒汉做法:
+## 1.懒汉做法:
 
 - 进入[release](https://github.com/Weidows/Rainmeter-skin/releases/tag/1.2.5),下载`Weidow's skin_1.2.5.rmskin`安装
 - 再下载 additional.zip,启用两个软件
 - 完成,一模一样了
 
-## 进阶の巨人:
+  ***
 
-- 看到这里基本可以完全了解这个仓库了,想要调整的话自己动手叭~
+## 2.进阶の巨人:
 
-<center>
+- 看到这里基本可以完全了解这个仓库了,想要调整细节的话自己动手叭~
 
-# #N.[反馈 & 出处 (Aboue me & Click me)](https://weidows.gitee.io/tags/about)
+---
+
+# [反馈](https://weidows.github.io/tags/about)
 
     后续会更新,同时欢迎有兴趣的提出修改意见或共同整改!
-
-</center>
