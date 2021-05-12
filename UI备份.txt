@@ -1,9 +1,10 @@
 [Rainmeter]
-SkinPath=D:\文档\Rainmeter\Skins\
+SkinPath=D:\Documents\Rainmeter\Skins\
 Logging=0
 HardwareAcceleration=1
 ConfigEditor=C:\Windows\system32\NOTEPAD.EXE
-DisableDragging=0
+DisableDragging=1
+Language=2052
 
 
 
@@ -197,7 +198,7 @@ SnapEdges=1
 KeepOnScreen=1
 AlwaysOnTop=-2
 [我的\德丽莎]
-Active=1
+Active=0
 WindowX=-68
 WindowY=819
 ClickThrough=0
@@ -208,7 +209,7 @@ AlwaysOnTop=1
 AlphaValue=152
 HideOnMouseOver=2
 [我的\崩坏女王]
-Active=1
+Active=0
 WindowX=60
 WindowY=555
 ClickThrough=0
@@ -378,12 +379,12 @@ KeepOnScreen=1
 AlwaysOnTop=0
 [我的\DeskWave]
 Active=1
-WindowX=0
-WindowY=972
+WindowX=500
+WindowY=-108
 ClickThrough=1
-Draggable=0
+Draggable=1
 SnapEdges=1
-KeepOnScreen=1
+KeepOnScreen=0
 AlwaysOnTop=-2
 HideOnMouseOver=2
 AlphaValue=203
