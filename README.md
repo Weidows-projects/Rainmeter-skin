@@ -2,8 +2,8 @@
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-24 00:24:19
- * @FilePath: \Repo\Rainmeter-skin\README.md
+ * @LastEditTime: 2022-02-10 18:26:48
+ * @FilePath: \Rainmeter-skin\README.md
 -->
 <h1 align="center">
 
@@ -15,7 +15,7 @@
 
 # 预览图片
 
-![20201124010559](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jm34Hiq85PLBC6y.jpg)
+![](image/README/1644488787027.png)
 
 ---
 
@@ -40,9 +40,3 @@
 ## 2.进阶の巨人:
 
 - 看到这里基本可以完全了解这个仓库了,想要调整细节的话自己动手叭~
-
----
-
-# [反馈](https://weidows.github.io/tags/about)
-
-    后续会更新,同时欢迎有兴趣的提出修改意见或共同整改!
