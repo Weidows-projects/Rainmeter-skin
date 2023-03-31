@@ -21,7 +21,7 @@
 
 ![](image/README/1644568581525.png)
 
-![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
 # 按 `F` 捡起装备
 
